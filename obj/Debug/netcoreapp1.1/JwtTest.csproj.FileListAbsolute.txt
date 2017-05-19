@@ -1,0 +1,8 @@
+/home/pedro/Documents/dotnet/JwtTest/bin/Debug/netcoreapp1.1/JwtTest.deps.json
+/home/pedro/Documents/dotnet/JwtTest/bin/Debug/netcoreapp1.1/JwtTest.runtimeconfig.json
+/home/pedro/Documents/dotnet/JwtTest/bin/Debug/netcoreapp1.1/JwtTest.runtimeconfig.dev.json
+/home/pedro/Documents/dotnet/JwtTest/bin/Debug/netcoreapp1.1/JwtTest.dll
+/home/pedro/Documents/dotnet/JwtTest/bin/Debug/netcoreapp1.1/JwtTest.pdb
+/home/pedro/Documents/dotnet/JwtTest/obj/Debug/netcoreapp1.1/JwtTest.AssemblyInfo.cs
+/home/pedro/Documents/dotnet/JwtTest/obj/Debug/netcoreapp1.1/JwtTest.dll
+/home/pedro/Documents/dotnet/JwtTest/obj/Debug/netcoreapp1.1/JwtTest.pdb
